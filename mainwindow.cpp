@@ -93,7 +93,7 @@ void MainWindow::on_pushEquals_clicked()
         }
         case 4:{
             xReturn = divFunc(xOne, xTwo);
-            //ui->deBugger->setText("divFunc");
+            //ui->deBugger->setText("divFunc"); Did it work?
             break;
         }
     }
