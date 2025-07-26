@@ -51,8 +51,7 @@ void MainWindow::on_radioDiv_toggled(bool checked)
 
 float addFunc(float a,float b)
 {
-    float retVal = a + b;
-    return retVal;
+    return (a + b);
 }
 
 float subFunc(float a,float b)
